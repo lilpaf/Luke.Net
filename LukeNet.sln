@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukeNet", "Luke.Net\LukeNet.csproj", "{D3D9575E-E802-4CE8-929E-C2A077424A4D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukePlugin", "LukePlugin\LukePlugin.csproj", "{BC06AE11-7BE6-4E54-A7D1-8BC42C911C09}"
